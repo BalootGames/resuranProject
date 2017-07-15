@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fecb5072a5ef07047ae46104c7cfd295
+timeCreated: 1474639075
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - panel: {instanceID: 0}
+  - sandwich1: {fileID: 182160, guid: e82f55f2df7660f4eacee0f054e3ddd9, type: 2}
+  - sandwich2: {fileID: 102200, guid: 6dfca76cffe56ec47b01fec18319a047, type: 2}
+  - sandwich3: {fileID: 155450, guid: 4364d675c2b444c4db06a48760290d79, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
